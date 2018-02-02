@@ -7,8 +7,21 @@ fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
-
+#
+# They are the site used for jumping to the worst kind of ads. 
+#
 127.0.0.1 	ef867a1be4f83922.com
+127.0.0.1		b1fb813dc806b7d.com
+127.0.0.1		da60995df247712.com
+127.0.0.1		9e5420f6be48ccc.com
+127.0.0.1 	77f24529d8427410.com
+127.0.0.1 	ef867a1be4f83922.com
+
+
+127.0.0.1			back1.site
+127.0.0.1			google.back1.site
+127.0.0.1			googlede.back1.site
+127.0.0.1			googlefr.back1.site
 
 127.0.0.1 	trackivee.com
 127.0.0.1 	.evxmi.trackivee.com
@@ -26,7 +39,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 	ora.tv
 127.0.0.1 	mc.yandex.ru
 127.0.0.1 	mail.ru
-127.0.0.1 	77f24529d8427410.com
 127.0.0.1 	c.mgid.com
 127.0.0.1 	jsc.mgid.com
 
@@ -55,6 +67,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 	n9-r1d2.amgload.net
 
 127.0.0.1 	m.addthis.com
+127.0.0.1 	s5.addthis.com
 127.0.0.1 	s7.addthis.com
 
 127.0.0.1 	adskeeper.co.uk
@@ -77,8 +90,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 	n7-r2d2.piguiqproxy.com
 127.0.0.1 	n8-r2d2.piguiqproxy.com
 
-127.0.0.1 	ef867a1be4f83922.com
-
 127.0.0.1 	zx9s.smcheck.org
 127.0.0.1 	ad.doubleclick.net
 
@@ -90,3 +101,24 @@ ff02::2 ip6-allrouters
 
 127.0.0.1 	hiy.vidzi.tv
 
+127.0.0.1			hospites.com
+127.0.0.1			www.hospites.com
+
+127.0.0.1			myway2ch.com
+127.0.0.1			go.myway2ch.com
+
+
+
+127.0.0.1			Logitheque.com
+127.0.0.1			Lelogicielgratuit.com
+
+127.0.0.1			edmunds.com
+127.0.0.1			blizardom.com
+
+127.0.0.1			www.smarterlifestyles.com
+127.0.0.1			smarterlifestyles.com
+127.0.0.1			go.oclasrv.com	
+
+127.0.0.1			deloton.com
+127.0.0.1			pushedwebnews.com
+127.0.0.1			trends.revcontent.com
