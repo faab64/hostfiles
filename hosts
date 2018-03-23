@@ -1,4 +1,4 @@
-127.0.0.1	localhost
+syndication.twitter.com/127.0.0.1	localhost
 127.0.1.1	laptop1
 
 # The following lines are desirable for IPv6 capable hosts
@@ -10,19 +10,36 @@ ff02::2 ip6-allrouters
 #
 # They are the site used for jumping to the worst kind of ads. 
 #
+127.0.0.1 	gigaonclick.com
+127.0.0.1 	syndication.twitter.com
+127.0.0.1 	crrepo.com
+#127.0.0.1 	cdnjs.cloudflare.com
+
+#127.0.0.1 	thumb.oloadcdn.net
+127.0.0.1 	thumb.oloadcdn.net
+
+127.0.0.1 	Go.oclasrv.com
+127.0.0.1 	smcheck.org
+
+
+
 127.0.0.1 	ef867a1be4f83922.com
-127.0.0.1		b1fb813dc806b7d.com
-127.0.0.1		da60995df247712.com
-127.0.0.1		9e5420f6be48ccc.com
+127.0.0.1	b1fb813dc806b7d.com
+127.0.0.1	da60995df247712.com
+127.0.0.1	9e5420f6be48ccc.com
 127.0.0.1 	77f24529d8427410.com
 127.0.0.1 	ef867a1be4f83922.com
+127.0.0.1 	77f24529d8427410.com
+127.0.0.1 	go.oclasrv.com
 
-
+127.0.0.1 	letsplayme.xyz
+127.0.0.1 	sex-and-flirt.com
+127.0.0.1 	jsc.mgid.com
 127.0.0.1			back1.site
 127.0.0.1			google.back1.site
 127.0.0.1			googlede.back1.site
 127.0.0.1			googlefr.back1.site
-
+127.0.0.1			report-uri.cloudflare.com
 127.0.0.1 	trackivee.com
 127.0.0.1 	.evxmi.trackivee.com
 127.0.0.1 	.geo-um.btrll.com
@@ -41,6 +58,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 	mail.ru
 127.0.0.1 	c.mgid.com
 127.0.0.1 	jsc.mgid.com
+
+127.0.0.1 	donaldholt.com
 
 127.0.0.1 	n0-r2d2.amgload.net
 127.0.0.1 	n1-r2d2.amgload.net
@@ -72,7 +91,7 @@ ff02::2 ip6-allrouters
 
 127.0.0.1 	adskeeper.co.uk
 127.0.0.1 	jsc.adskeeper.co.uk
-
+127.0.0.1 	creative.wwwpromoter.com
 127.0.0.1 	kz1c.piguiqproxy.com
 
 127.0.0.1 	xk9o.amgload.net
@@ -99,8 +118,6 @@ ff02::2 ip6-allrouters
 
 127.0.0.1 	go.oclasrv.com
 
-127.0.0.1 	hiy.vidzi.tv
-
 127.0.0.1			hospites.com
 127.0.0.1			www.hospites.com
 
@@ -123,8 +140,10 @@ ff02::2 ip6-allrouters
 127.0.0.1			pushedwebnews.com
 127.0.0.1			trends.revcontent.com
 
-
 127.0.0.1 	best2017games.com
 
+
+127.0.0.1 	hiy.vidzi.tv
 127.0.0.1 	ww4.vidzi.tv
+127.0.0.1 	srv55.vidzi.tv
 
